@@ -44,8 +44,41 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="gcp" width="40" height="40"/></p>
 
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mietoprogramming&show_icons=true&locale=en&layout=compact" alt="mietoprogramming" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mietoprogramming&show_icons=true&locale=en" alt="mietoprogramming" /></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mietoprogramming&" alt="mietoprogramming" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Radzik&langs_count=30&layout=compact&show_icons=true&icon_color=34abeb&theme=radical" height="200" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Jakub-Radzik&show_icons=true&theme=radical" height="200" /></td>
+  </tr>
+   <tr>
+  <td colspan="2" align="center">
+    <a href="https://www.codewars.com/users/MietoProgramming">
+    <img align="center" src="https://www.codewars.com/users/MietoProgramming/badges/large" alt="gif" width="550"/>
+    </a>
+    </td>
+    
+  </tr>
+  <tr>
+  <td colspan="2" align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mietoprogramming&" alt="mietoprogramming" />
+    </td>
+    </tr>
+   
+</table>
+
 <div align="center" float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mietoprogramming&show_icons=true&locale=en&layout=compact" alt="mietoprogramming" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mietoprogramming&show_icons=true&locale=en" alt="mietoprogramming" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mietoprogramming&" alt="mietoprogramming" />
+
 </div>
