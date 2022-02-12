@@ -31,7 +31,6 @@
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></p>
 
 <h4 align="left">Still in progress:</h4>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -45,7 +44,7 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="gcp" width="40" height="40"/></p>
 
-<div align="center">
+<div align="center" float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mietoprogramming&show_icons=true&locale=en&layout=compact" alt="mietoprogramming" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mietoprogramming&show_icons=true&locale=en" alt="mietoprogramming" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mietoprogramming&" alt="mietoprogramming" />
