@@ -21,16 +21,18 @@
     </td>
     </tr>
 </table>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mietoprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="mietoprogramming" /> </p>
+<br/>
 
 - 👨‍💻 All of my projects are available at [...](...)
 
-<h3 align="left">Connect with me:</h3>
+<table>
+<tr>
+  <td><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href = "mailto:kamil.kaluza25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaluzakamil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
+ <img align="left" src="https://komarev.com/ghpvc/?username=mietoprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="mietoprogramming" /><br/>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -63,8 +65,9 @@
 <h4 align="left">Todo:</h4>
 <p><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="gcp" width="40" height="40"/></p>
-
-<div align="center" float="left">
-
-</div>
+<img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="gcp" width="40" height="40"/></p></td>
+  <td><div align="center">
+<img src="./gifs.giphy.gif" alt="gcp"/></p>
+</div></td>
+</tr>
+</table>
