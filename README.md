@@ -70,4 +70,4 @@
 <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="gcp" width="40" height="40"/></p></td>
 </tr>
 </table></p>
-<p><img src="./gifs/giphy.gif" alt="gif" /></p>
+<p><img src="./gifs/giphy.gif" alt="gif" width="250px"/></p>
