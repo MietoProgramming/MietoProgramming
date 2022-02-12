@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">CS Student and future programmer</h3>
 
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mietoprogramming&show_icons=true&locale=en&layout=compact" alt="mietoprogramming" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mietoprogramming&show_icons=true&locale=en" alt="mietoprogramming" /></td>
+  </tr>
+ <tr>
+  <td colspan="2" align="center">
+    <a href="https://www.codewars.com/users/MietoProgramming">
+    <img align="center" src="https://www.codewars.com/users/MietoProgramming/badges/large" alt="gif" width="550"/>
+    </a>
+    </td>
+    
+  </tr>
+  <tr>
+  <td colspan="2" align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mietoprogramming&" alt="mietoprogramming" />
+    </td>
+    </tr>
+</table>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mietoprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="mietoprogramming" /> </p>
 
 - 👨‍💻 All of my projects are available at [...](...)
@@ -43,41 +64,6 @@
 <p><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="gcp" width="40" height="40"/></p>
-
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mietoprogramming&show_icons=true&locale=en&layout=compact" alt="mietoprogramming" /></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mietoprogramming&show_icons=true&locale=en" alt="mietoprogramming" /></td>
-  </tr>
-  <tr>
-  <td colspan="2" align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mietoprogramming&" alt="mietoprogramming" />
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Radzik&langs_count=30&layout=compact&show_icons=true&icon_color=34abeb&theme=radical" height="200" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Jakub-Radzik&show_icons=true&theme=radical" height="200" /></td>
-  </tr>
-   <tr>
-  <td colspan="2" align="center">
-    <a href="https://www.codewars.com/users/MietoProgramming">
-    <img align="center" src="https://www.codewars.com/users/MietoProgramming/badges/large" alt="gif" width="550"/>
-    </a>
-    </td>
-    
-  </tr>
-  <tr>
-  <td colspan="2" align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mietoprogramming&" alt="mietoprogramming" />
-    </td>
-    </tr>
-   
-</table>
 
 <div align="center" float="left">
 
