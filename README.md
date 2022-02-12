@@ -67,7 +67,7 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="gcp" width="40" height="40"/></p></td>
   <td><div align="center">
-<img src="./gifs.giphy.gif" alt="gcp"/></p>
+<img src="./gifs/giphy.gif" alt="gcp"/></p>
 </div></td>
 </tr>
 </table>
