@@ -25,7 +25,7 @@
 </table>
 <br/>
 
-- 👨‍💻 All of my projects are available at [https://mietoprogramming.github.io/portfolio/](...)
+- 👨‍💻 All of my projects are available at [My Website](https://mietoprogramming.github.io/portfolio/)
 
 <table align="left">
 <tr>
