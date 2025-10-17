@@ -9,14 +9,6 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mietoprogramming&show_icons=true&locale=en&layout=compact" alt="mietoprogramming" /></td>
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mietoprogramming&show_icons=true&locale=en" alt="mietoprogramming" /></td>
   </tr>
- <tr>
-  <td colspan="2" align="center">
-    <a href="https://www.codewars.com/users/MietoProgramming">
-    <img align="center" src="https://www.codewars.com/users/MietoProgramming/badges/large" alt="gif" width="550"/>
-    </a>
-    </td>
-    
-  </tr>
   <tr>
   <td colspan="2" align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mietoprogramming&" alt="mietoprogramming" />
@@ -29,7 +21,6 @@
 <tr>
   <td><h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href = "mailto:kamil.kaluza25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaluzakamil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
     <p align="center">
