@@ -5,9 +5,7 @@
   <p>
 <table align="center">
   <tr>
-    <td valign="top">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mietoprogramming&show_icons=true&locale=en&layout=compact" alt="mietoprogramming" /></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mietoprogramming&show_icons=true&locale=en" alt="mietoprogramming" /></td>
+
   </tr>
   <tr>
   <td colspan="2" align="center">
